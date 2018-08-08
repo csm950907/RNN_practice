@@ -2,6 +2,8 @@
 Minimal character-level Vanilla RNN model. Written by Andrej Karpathy (@karpathy)
 BSD license
 python 3에서 실행 가능하도록 수정, 한글 해설 추가
+from : https://gist.github.com/MinjeJeon/8f50693f0a986419ab2dda35753acb1f
+original : https://gist.github.com/karpathy/d4dee566867f8291f086
 """
 import numpy as np
 
