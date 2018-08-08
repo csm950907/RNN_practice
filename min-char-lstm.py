@@ -24,10 +24,10 @@ seq_length = 25 # number of steps to unroll the RNN for
 learning_rate = 1e-1
 
 # model parameters
-Wxh = np.random.randn(hidden_size, vocab_size)*0.01 # input to hidden
-Whh = np.random.randn(hidden_size, hidden_size)*0.01 # hidden to hidden
+Wxh = np.random.randn(hidden_size*4, vocab_size)*0.01 # input to hidden
+Whh = np.random.randn(hidden_size*4, hidden_size)*0.01 # hidden to hidden
 Why = np.random.randn(vocab_size, hidden_size)*0.01 # hidden to output
-bh = np.zeros((hidden_size, 1)) # hidden bias
+bh = np.zeros((hidden_size*4, 1)) # hidden bias
 by = np.zeros((vocab_size, 1)) # output bias
 
 def sigmoid(x):
@@ -94,7 +94,7 @@ def lossFun(inputs, targets, hprev, cprev):
 
     return loss, dWxh, dWhh, dWhy, dbh, dby, hs[len(inputs) - 1], cs[len(inputs) - 1]
 
-def sample(h, seed_ix, n):
+def sample(h, c, seed_ix, n):
     """
     sample a sequence of integers from the model
     h is memory state, seed_ix is seed letter for first time step
@@ -102,8 +102,17 @@ def sample(h, seed_ix, n):
     x = np.zeros((vocab_size, 1))
     x[seed_ix] = 1
     ixes = []
+    H = hidden_size
+
     for t in range(n):
-        h = np.tanh(np.dot(Wxh, x) + np.dot(Whh, h) + bh)
+        tmp = np.dot(Wxh, x) + np.dot(Whh, h) + bh  # hidden state
+        i = sigmoid(tmp[:H])
+        f = sigmoid(tmp[H:2 * H])
+        o = sigmoid(tmp[2 * H: 3 * H])
+        g = np.tanh(tmp[3 * H:])
+        c = f * c + i * g
+        h = o * np.tanh(c)
+
         y = np.dot(Why, h) + by
         p = np.exp(y) / np.sum(np.exp(y))
         ix = np.random.choice(range(vocab_size), p=p.ravel())
@@ -112,11 +121,46 @@ def sample(h, seed_ix, n):
         ixes.append(ix)
     return ixes
 
-n, p = 0, 0
+n, p, count = 0, 0, 1
+total = int(data_size / seq_length)
 mWxh, mWhh, mWhy = np.zeros_like(Wxh), np.zeros_like(Whh), np.zeros_like(Why)
 mbh, mby = np.zeros_like(bh), np.zeros_like(by) # memory variables for Adagrad
 smooth_loss = -np.log(1.0/vocab_size)*seq_length # loss at iteration 0
 
+while n < 10:
+    if p+seq_length+1 >= len(data) or n == 0:
+        print('================\n iteration {} \n================'.format(n + 1))
+        hprev = np.zeros((hidden_size,1)) # reset RNN memory
+        cprev = np.zeros((hidden_size,1)) # reset RNN memory
+
+        p = 0 # go from start of data
+        count = 1
+        sample_ix = sample(hprev, cprev, n, 1500)
+        txt = ''.join(ix_to_char[ix] for ix in sample_ix)
+        print('----\n {} \n----'.format(txt, ))
+        n += 1
+
+
+    inputs = [char_to_ix[ch] for ch in data[p:p+seq_length]]
+    targets = [char_to_ix[ch] for ch in data[p+1:p+seq_length+1]]
+
+    # forward seq_length characters through the net and fetch gradient
+    loss, dWxh, dWhh, dWhy, dbh, dby, hprev, cprev = lossFun(inputs, targets, hprev, cprev)
+    smooth_loss = smooth_loss * 0.999 + loss * 0.001
+    if count % 100 == 0 or count == total: print('({}/{}), loss: {}'.format(count, total, smooth_loss)) # print progress
+
+    # perform parameter update with Adagrad
+    for param, dparam, mem in zip([Wxh, Whh, Why, bh, by],
+                                  [dWxh, dWhh, dWhy, dbh, dby],
+                                  [mWxh, mWhh, mWhy, mbh, mby]):
+        mem += dparam * dparam
+        param += -learning_rate * dparam / np.sqrt(mem + 1e-8) # adagrad update
+
+    p += seq_length # move data pointer
+    count += 1
+
+
+'''
 while True:
     # prepare inputs (we're sweeping from left to right in steps seq_length long)
     if p+seq_length+1 >= len(data) or n == 0:
@@ -124,12 +168,13 @@ while True:
         cprev = np.zeros((hidden_size,1)) # reset RNN memory
 
         p = 0 # go from start of data
+
     inputs = [char_to_ix[ch] for ch in data[p:p+seq_length]]
     targets = [char_to_ix[ch] for ch in data[p+1:p+seq_length+1]]
 
     # sample from the model now and then
     if n % 100 == 0:
-        sample_ix = sample(hprev, inputs[0], 200)
+        sample_ix = sample(hprev, cprev, inputs[0], 200)
         txt = ''.join(ix_to_char[ix] for ix in sample_ix)
         print('----\n {} \n----'.format(txt, ))
 
@@ -147,3 +192,4 @@ while True:
 
     p += seq_length # move data pointer
     n += 1 # iteration counter
+'''

@@ -115,15 +115,15 @@ while True:
     targets = [char_to_ix[ch] for ch in data[p+1:p+seq_length+1]]
 
     # 학습을 100번 반복할 때마다 학습 결과를 출력
-    if n % 100 == 0:
-        sample_ix = sample(hprev, inputs[0], 200) #지금까지 학습한 RNN을 이용하여 숫자의 리스트를 출력
+    if n % 1000 == 0:
+        sample_ix = sample(hprev, inputs[0], 5000) #지금까지 학습한 RNN을 이용하여 숫자의 리스트를 출력
         txt = ''.join(ix_to_char[ix] for ix in sample_ix)
         print('----\n %s \n----' % (txt, ))
 
     # 손실함수에서 손실값과 그래디언트를 함께 계산
     loss, dWxh, dWhh, dWhy, dbh, dby, hprev = lossFun(inputs, targets, hprev)
     smooth_loss = smooth_loss * 0.999 + loss * 0.001
-    if n % 100 == 0: print('iter %d, loss: %f' % (n, smooth_loss)) # 반복횟수, 손실 출력
+    if n % 1000 == 0: print('iter %d, loss: %f' % (n, smooth_loss)) # 반복횟수, 손실 출력
 
     # Adagrad 방식으로 파라미터 업데이트
     for param, dparam, mem in zip([Wxh,  Whh,  Why,  bh,  by],   # 가중치

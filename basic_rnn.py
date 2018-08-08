@@ -41,16 +41,16 @@ def model(X, W, B, lstm_size):
     # Each array shape: (batch_size, input_vec_size)
 
     # Make lstm with lstm_size (each input vector size)
-    lstm = rnn.BasicLSTMCell(lstm_size, forget_bias=1.0, state_is_tuple=True)
+    # cell = rnn.BasicLSTMCell(lstm_size, forget_bias=1.0, state_is_tuple=True)
 
-    # lstm = rnn.BasicRNNCell(lstm_size)
+    cell = rnn.BasicRNNCell(lstm_size)
 
     # Get lstm cell output, time_step_size (28) arrays with lstm_size output: (batch_size, lstm_size)
-    outputs, _states = rnn.static_rnn(lstm, X_split, dtype=tf.float32)
+    outputs, _states = rnn.static_rnn(cell, X_split, dtype=tf.float32)
 
     # Linear activation
     # Get the last output
-    return tf.matmul(outputs[-1], W) + B, lstm.state_size # State size to initialize the stat
+    return tf.matmul(outputs[-1], W) + B, cell.state_size # State size to initialize the stat
 
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 trX, trY, teX, teY = mnist.train.images, mnist.train.labels, mnist.test.images, mnist.test.labels
@@ -67,7 +67,7 @@ B = init_weights([10])
 py_x, state_size = model(X, W, B, lstm_size)
 
 cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=py_x, labels=Y))
-train_op = tf.train.RMSPropOptimizwer(0.001, 0.9).minimize(cost)
+train_op = tf.train.RMSPropOptimizer(0.001, 0.9).minimize(cost)
 predict_op = tf.argmax(py_x, 1)
 
 session_conf = tf.ConfigProto()
