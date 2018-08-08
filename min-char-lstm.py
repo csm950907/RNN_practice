@@ -1,6 +1,7 @@
 """
 Minimal character-level Vanilla RNN model. Written by Andrej Karpathy (@karpathy)
 BSD License
+original : https://gist.github.com/ratsgo/6e9a094c7108dee8147ef0a13666de47#file-lstm_loss-py
 """
 import numpy as np
 
