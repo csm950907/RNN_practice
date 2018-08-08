@@ -62,11 +62,11 @@ def lossFun(inputs, targets, hprev):
         dby += dy
         dh = np.dot(Why.T, dy) + dhnext
         dh_ = dh * (1 - zs[t])
-        dz = np.dot(np.diag(hs[t-1].ravel()) - np.diag(hs_[t].ravel()), dh)
+        dz = dh * (np.diag(hs[t-1].ravel()) - np.diag(hs_[t].ravel()))
         dr_ = dh_ * (1 - np.tanh(W[H * 2:] + rs_[t]) * np.tanh(W[H * 2:] + rs_[t]))
-        dr = np.dot(np.diag(U[H * 2:].ravel()), dr_)
-        dinput_r = dr * rs[t] * (1 - rs[t])
-        dinput_z = dz * zs[t] * (1 - zs[t])
+        dr = dr_ * np.diag(U[H * 2:].ravel())
+        dinput_r = np.dot(dr, rs[t] * (1 - rs[t]))
+        dinput_z = np.dot(dz, zs[t] * (1 - zs[t]))
         dWxh_x = dh_*(1 - np.tanh(W[H * 2:] + rs_[t]) * np.tanh(W[H * 2:] + rs_[t]))
         dWhh_h = np.dot(np.diag(rs[t].ravel()), dr_)
         dall_x = np.hstack((dinput_z.ravel(), dinput_r.ravel(), dWxh_x.ravel()))

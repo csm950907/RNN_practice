@@ -1,0 +1,1378 @@
+data has 1115390 characters, 65 unique.
+================
+ iteration 1
+================
+----
+ WAA&AYrr.lILLAv&yp;C;
+lga?mgKRVjyHmMmmMmMAojjjAAyyydZooKTToKHKKKKHHHpppppXXHXXXXXiiAAXnEx3!;'K.LLrWCCnV!WTzG3Gz
+d.xpGzGNGEGmmFjiiDU:::ggfuhx
+ervuuZvoKoKNK.Vp:M.NUJQJJJJJJJJJ JH D  P DcM-dvxm-z!-HIzzhzNhR!De,!!T!BTyO;  Z!brOO OagO!BRhZKmomJJoCVhhOB?L!?P!RK.KKNKh?vy:fNNMWGGNNLLUUTDQe3omTTTTTTTdP.trbqesnU WG&oGocMFFFF;FF33zDEC,eYS,tKo!hZ,iHuuiCoFIWhO!,!MWIIIIIKIYYYYOyWO pWNISSg  WYC!Doe;JChiCUCNNNNNhccgM!JDgggnhOObg?rT!lKTIlk'''AATvjyyaO;;iZZCZCCyyooQQaTQQQQQP;iyyydBLy'cs&KJoooooonoonWoIIIIIIIIIIIIIIIIKIIRIIKIIo'hhh?
+!Z?uREu?s?YEPWP;WPWWnWnhOgcON?ssssXs'eR3'''xtttF EEEsss3Yrm!.b&KHuIIu'3IIIIIIWbu'hhMxFxOeeGGjnsnsGZZZZgy!yVnO
+sKlcQpAt Tfcn:C;;;uu!C!ua?L?DoooSmtMDKKK,,pRVKVTTTTZ::SZZyNy!yr&qr!!!!ZTTTW,TT,Fw::HHmm!!RUTRXVRPWWt:tAwx!vbrr!rrnxnxXnFxn&OrOerO M,tSueAqQQ3M,I&NI,RkS3YSSt'DUJCIIIeeqHm?uc?Li''qq!qqQrr?!!!!!oQQNQF;!;SUUU;;C$;WSrLD;G:;;;G;;;SSrWnhwyyXnWXXnxw&IIJnnWWnwWWlW&q:&FM!EPPLLILIIIIIIIIIII
+
+UEEnI
+
+SSSgIIIKRRk3333NNNM
+ oo ookpIIII''mmk,xxRkkyAUsx'U'U'V'Qhhr;!!rLLAAAnALLGG;;lInLbOAAhfrraa!aZZ??fR3ffYL''fL'''ApTI''K.,'mkGpL3IILLAiRia.iAAEyycyyfL;yyyfLffLIIHIIIII'''''IAII?YAYLAm;'LLk,R'w,!nRh''r''h'ruOurrrrrrrrbuernhuuuOJCkHHHHHIH3'MkIoWJQJJJJJJQ;ffffDt!;;JJVQmCCXXiWEWyAWWyREyycrU;onny&&FL''?K?;;ZGGX?Hp:?Q???R.,v?.?KK???R?R??;?G.DIRRYVYVYYYYCQPPPWRik''A'maxQArr'r.:LxpL!IIIQQLL
+R!r
+
+ ;GyA&rrrrAAwsAwwggs::i?;igE3AAmymem33fDuuueux,oooJoJJJ-JY-JIJ-oIkkIo?o?o'eYeix?e??LLLcg'';LUVRXQLtL;;rrrLxxLI,Yk,,,Md,,R,dGR333Y3YL3rrrqrFFFL;M;rn&T;YnYLd'AlLLAAYYpFFQQT'DQrW';-n;gggXgcTytD;br
+----
+(1000/44615), loss: 120.82532490519422
+(2000/44615), loss: 86.27276319090056
+(3000/44615), loss: 69.59648238585834
+(4000/44615), loss: 62.43405114126805
+(5000/44615), loss: 59.743172213870174
+(6000/44615), loss: 58.996333282943574
+(7000/44615), loss: 59.685102879186246
+(8000/44615), loss: 58.806627853564585
+(9000/44615), loss: 58.82742543854374
+(10000/44615), loss: 56.68133511979633
+(11000/44615), loss: 57.06748863872966
+(12000/44615), loss: 55.20510606828121
+(13000/44615), loss: 57.43474551818594
+(14000/44615), loss: 57.556003490660395
+(15000/44615), loss: 56.51712788233939
+(16000/44615), loss: 55.951568447946585
+(17000/44615), loss: 54.89756739338329
+(18000/44615), loss: 55.18411480802937
+(19000/44615), loss: 56.144714032751175
+(20000/44615), loss: 55.16994058156541
+(21000/44615), loss: 55.79864783215981
+(22000/44615), loss: 54.212075309298456
+(23000/44615), loss: 54.84128868245596
+(24000/44615), loss: 54.64319455520403
+(25000/44615), loss: 53.907818283337846
+(26000/44615), loss: 53.333774388150815
+(27000/44615), loss: 53.285289786969095
+(28000/44615), loss: 53.21389813820153
+(29000/44615), loss: 54.938320636602406
+(30000/44615), loss: 55.00987153660212
+(31000/44615), loss: 55.11602852801462
+(32000/44615), loss: 55.033107286837776
+(33000/44615), loss: 53.92958376447953
+(34000/44615), loss: 53.891410786451395
+(35000/44615), loss: 54.369321795913415
+(36000/44615), loss: 53.184644047683385
+(37000/44615), loss: 53.40135086569095
+(38000/44615), loss: 52.96882220426955
+(39000/44615), loss: 53.25571857329434
+(40000/44615), loss: 53.9267596430277
+(41000/44615), loss: 53.286253154798935
+(42000/44615), loss: 52.54025615286115
+(43000/44615), loss: 51.116299492019664
+(44000/44615), loss: 52.83764794061035
+(44615/44615), loss: 52.84238956515199
+================
+ iteration 2
+================
+----
+ Cieveve''s. sisswipesevee it.
+Cit.' isivess; qupeququve,; quveis:
+WeviquqquevowevoZWARWALO:
+Ape liequessq:-Nobeis'veys zey,
+I wicitvizey, IA:
+I DINGONIO:
+Ay: I Citisizegunve; tirice. Aidqueppisie. I ie:
+I silpritizwidsizequze.
+
+AivviqNSTA:
+CY: WIvevequtisizeqquicostienqqubje.-wivey. I vint:'so'tion bis.
+IANDANTANIAis;-qubequqquq:
+I Roy.
+Wincist iveizezee?:
+Ay:
+Ase; inqquzequt:
+Hezeey,--p-poquisqqu.
+Wivivivesve:-quzquzeqqquqqubiqquinqqy quzequpeiquviswiclisiteyss.
+Wiqug?
+Wiquwiopt ine.
+CAH:
+WiviqNO:
+No; wirt'squisqu gatsttipiseYeqy:
+Wisisprispidyievispie peir.--epe isis; jouivir:
+Iworow; qequgocivistie, wiqquiboveesipequp: Ho: quvet kitiwieywis quis;
+Weeveves:
+Yizequgee;m; 'ze.
+Loinevesstenque; qulevivive. wit fit: WiviqNO:
+IANHOO: Wovely'zeve'wite. Wiquzewery'quqquqqubj:
+We:; by; wevoZWAy:
+Wiet'zezeiqgoo bepevevervitin,-ve.:
+At zeeive IAnsie.
+Muevey.
+Goory: op.
+Ap-'ijoulse; wienq:iqNWoiquzviveqqque; iveeieswit. AWifoose yisptin! IA: IA:
+I Hey tinqqup.
+
+GRAy: WovizquzequoquptizeqtesseqqqNA:
+Heques:
+I pequeiviwisize: oonoqquivit'
+qut-ipvise:'lyisiceby.
+Go teit
+Wing:
+I eequszequy; eeivep.
+I wissse: qA: IAA:
+YouiquqNWAN:
+IA:
+We'siviquqqur: tiote.'
+We.
+AsesspiegAigysizelive'esoze:'Mis:
+Wiviveesquze-qugeevis:
+Mee izeres: viqqBeessive; ivivestee.'s yop! questie-ppeiquigiseive!, quzoweilve.qqy:
+We; pisze: ixptequeplivimqigit sore:ivesieniev;'Stio: Wie:
+Tive wiequges:
+Hizeis'ze.
+'itisise; it:
+Ay; I weeve. IsisqAMWA:
+Noweet'sy.
+iepes:'tibe:
+Wo zeevel:ivim; wis:
+I tise,
+ISie; ic.
+'sid's
+----
+(1000/44615), loss: 54.680336317959124
+(2000/44615), loss: 53.70871086657629
+(3000/44615), loss: 52.28779786770077
+(4000/44615), loss: 51.13045089026627
+(5000/44615), loss: 51.57968114241565
+(6000/44615), loss: 51.89584237536352
+(7000/44615), loss: 52.68980076541664
+(8000/44615), loss: 52.4938757465153
+(9000/44615), loss: 52.57453946853313
+(10000/44615), loss: 51.341034185450866
+(11000/44615), loss: 51.889060974999516
+(12000/44615), loss: 50.44802302431133
+(13000/44615), loss: 52.51397310817314
+(14000/44615), loss: 52.85612634030131
+(15000/44615), loss: 52.040569785600084
+(16000/44615), loss: 51.87909484773683
+(17000/44615), loss: 51.10288126851205
+(18000/44615), loss: 51.177769797387356
+(19000/44615), loss: 52.51194939688249
+(20000/44615), loss: 51.84516298126272
+(21000/44615), loss: 52.541328894983984
+(22000/44615), loss: 51.31772368071833
+(23000/44615), loss: 51.951215715428866
+(24000/44615), loss: 51.53653799020678
+(25000/44615), loss: 51.06248112175516
+(26000/44615), loss: 50.48960569405329
+(27000/44615), loss: 50.291355502076186
+(28000/44615), loss: 50.26237882143077
+(29000/44615), loss: 51.53264649312244
+(30000/44615), loss: 51.62321804980174
+(31000/44615), loss: 52.30162454506906
+(32000/44615), loss: 52.183490239333686
+(33000/44615), loss: 51.28818804189872
+(34000/44615), loss: 51.21785422263174
+(35000/44615), loss: 51.47384182892578
+(36000/44615), loss: 50.761962408663514
+(37000/44615), loss: 50.920543577908674
+(38000/44615), loss: 50.4005103025306
+(39000/44615), loss: 50.75909795193497
+(40000/44615), loss: 51.55918551123584
+(41000/44615), loss: 51.11216407491131
+(42000/44615), loss: 50.64269529348726
+(43000/44615), loss: 49.200932150083005
+(44000/44615), loss: 50.78408524632401
+(44615/44615), loss: 50.84909621279744
+================
+ iteration 3
+================
+----
+ hrioviivevits up?
+
+GSLUCED:
+O, tet; Ast is am wiveseliveys amess; wilo:; to jourtice iveich: isse; goove? :
+Whorous; unospoy, mody, begvine, wit-vet's; isty.
+
+
+Gtis, Ais digel, wis; it; wenawoucswiokeivee; ine; or wishisetio sity?
+Tivirussusss; with: cin'sich; ssetiuceis veeividisiccispivet; tirifig is ving,
+thisive.
+
+ViG:
+Wigivive; wilip: sire:
+No to;; yisusis!
+Noigivibegrisives liogor; ut.
+Witifiessesites;
+Ass pitifien.
+
+AL:
+:
+Nis weeivemis.
+
+GRCENIO:
+A: thesc.
+
+A: usive; sire, un. knot'd ffome. ise ivee; siiviis,
+?
+
+ingistiequigiis; ieid sove. risses; we as.
+
+O:
+Fovim?
+Cim issstiesiveit; corityes fousisiofid; seis;
+Bit! Yeass'tivenjoust soll wifitivie.
+
+GRANAPBINIS:
+A seveses is?
+GiY: Yiviga.
+Yevevesce: IANA:
+Wagesied; beesiow-you sir; sessivinieging? A: vise,-ivi is novestistiequy;
+I gial! I:
+Hi; tiones sirist.
+
+WAS:
+Why ix?:
+A? Crifivis? visswe.
+wi? vite: sulitivefevowourspile; is?
+To uvine wisceit; wiliglithisiggile:
+Sigirgesivivesivig?
+
+A:
+Dokes: iz'sstine, usive is inqy; ow vy is; it; risoblieviseviveequo; is?
+'veye; Wess iomendstion wille,
+Diengizeesstiess thy sir.
+
+ANA:
+Sitieigsel.
+WAMISA:
+Wice?
+Fits itiolineivengivesire vemiviglyyitivge;
+And vivierilg.
+
+SAttie: virterge,
+Wigsiestoigelstiogeevit, Istrisistingistivevize oubst.
+
+KIO: XIfiriver.
+
+LO:
+O: Bim!
+'cize is veirsesidly.
+'ld is? upeveis neivilovilivielioniit ise? wely is;
+Aistill vis;
+Ay sith, spoouissie; sur?
+Coulsif sasinceyses' with is; is in misonsiequ spoucivee.
+
+Carind; woting.
+
+MARIANisist:
+io?-
+Wistihi
+----
+(1000/44615), loss: 52.28098591394686
+(2000/44615), loss: 51.666622934853265
+(3000/44615), loss: 50.37636318328939
+(4000/44615), loss: 49.30129904753272
+(5000/44615), loss: 49.72218231774816
+(6000/44615), loss: 50.23217014327594
+(7000/44615), loss: 50.679617384912724
+(8000/44615), loss: 50.67443644004832
+(9000/44615), loss: 50.37874812586284
+(10000/44615), loss: 49.48159002294276
+(11000/44615), loss: 49.88317280558249
+(12000/44615), loss: 48.535682092805935
+(13000/44615), loss: 50.773560783554906
+(14000/44615), loss: 51.090606927520135
+(15000/44615), loss: 50.37679721492242
+(16000/44615), loss: 50.41904613420836
+(17000/44615), loss: 49.63608625103611
+(18000/44615), loss: 49.735211872789925
+(19000/44615), loss: 51.142065733250526
+(20000/44615), loss: 50.47146606550752
+(21000/44615), loss: 51.15462500778472
+(22000/44615), loss: 50.10703386882816
+(23000/44615), loss: 50.688787943586874
+(24000/44615), loss: 50.20318178948767
+(25000/44615), loss: 49.7046411863597
+(26000/44615), loss: 48.97963392977999
+(27000/44615), loss: 48.87208592353675
+(28000/44615), loss: 48.991752180195135
+(29000/44615), loss: 50.28376114580618
+(30000/44615), loss: 50.485525980851726
+(31000/44615), loss: 51.202832766468894
+(32000/44615), loss: 51.12088302378964
+(33000/44615), loss: 50.219526042656675
+(34000/44615), loss: 50.07861235540689
+(35000/44615), loss: 50.32289348868064
+(36000/44615), loss: 49.57005888896378
+(37000/44615), loss: 49.94657582221723
+(38000/44615), loss: 49.4972218778895
+(39000/44615), loss: 49.80721395331342
+(40000/44615), loss: 50.76250392660549
+(41000/44615), loss: 50.43133089473319
+(42000/44615), loss: 49.87008265596601
+(43000/44615), loss: 48.50861537897501
+(44000/44615), loss: 50.12622814172572
+(44615/44615), loss: 50.10886743590895
+================
+ iteration 4
+================
+----
+ ERQCKE:
+
+x.
+IAvyedip, Lize we wivedwill,
+A's to nondy sony;
+Fur, the
+Strung sely sur tele lus: wast ive swney he yousest he son tay susys:
+Andelvy ong,
+Ay An;
+Aryentyer twsuses is! s:
+Th your sevey:
+Butery, thent,
+My inve youne: s yry and thee you to stuedy the inan,
+Andy slenk, yeessenthe
+A: ase ton yseryse; my and ssee: youl youl:
+For ty CAgus;
+The senese, Grvey stion you s wee; yunt the wet.
+
+FAABus diestur the revie your tre sselveven'leryee Fready twiset yees wing om Kene: you;
+And the ke struy, then bespee:
+Min.
+
+A:
+O wedeint you we, thene the s:
+An yelve; my selu though's bun sud;
+At,
+Aend the be 'truve, you, ourreendings ie; sen:
+Ass reves' thens you stepels stystrun, bettup. Wenvew,
+An: I in or;
+
+LAA:
+
+Fat on hee tone nut lemeye to ving he syay youppestrene! alll Aelye; one vert yere sarst hee kadvewer swe kew'
+Aend nes yeee,
+I kenind:
+Andly tpee I ley leevereree:
+Why du ksunee, and the ILAAnd neve wentes to leabuth te we onesese.
+
+HAO:
+Wellp:
+DO:
+And, very not teerentestaus sere as nolane ave velventh
+Tumby:
+Andeve as juely seeses,
+ane
+Ay hrues the oul,
+A neve you wesppedve yet; nan and to rente onde trendinsere
+Ayspre thy and and ny adsp ay to 'tatus, I pees leventenatcer sto,
+And denkt to trase wny on yryous, my, Eve seet rshere speverere end sue.
+
+Fim yme, bet ofts tel.
+
+A Ay, nablenty thes have And poorse daysos yearene neve sstaynsen,
+And, yetyen yongy your Bely ee:
+FRIOS:
+I kere
+ me Tumy rindsin see loriventang tely, donks.
+
+ANG:
+The thontet and we wenty well
+----
+(1000/44615), loss: 51.344821845029216
+(2000/44615), loss: 50.79789241291926
+(3000/44615), loss: 49.69428200562428
+(4000/44615), loss: 48.652107423676306
+(5000/44615), loss: 49.095867288676864
+(6000/44615), loss: 49.50563794000155
+(7000/44615), loss: 49.72763736974469
+(8000/44615), loss: 49.810536223072205
+(9000/44615), loss: 49.37102311362877
+(10000/44615), loss: 48.72010418375819
+(11000/44615), loss: 48.968791059986195
+(12000/44615), loss: 47.57703361844106
+(13000/44615), loss: 49.85482985922789
+(14000/44615), loss: 50.37687933995279
+(15000/44615), loss: 49.54481442567142
+(16000/44615), loss: 49.55159761109985
+(17000/44615), loss: 48.79043717914763
+(18000/44615), loss: 49.027921342953505
+(19000/44615), loss: 50.386525682342274
+(20000/44615), loss: 49.727899505956934
+(21000/44615), loss: 50.331617858049476
+(22000/44615), loss: 49.2448268607844
+(23000/44615), loss: 49.86413147912839
+(24000/44615), loss: 49.33993880901701
+(25000/44615), loss: 48.76723375242327
+(26000/44615), loss: 48.02038140433687
+(27000/44615), loss: 47.91136741346692
+(28000/44615), loss: 48.14392919234053
+(29000/44615), loss: 49.45386016784033
+(30000/44615), loss: 49.56389861611158
+(31000/44615), loss: 50.37067767505018
+(32000/44615), loss: 50.467808667598185
+(33000/44615), loss: 49.466267620537806
+(34000/44615), loss: 49.32963184915258
+(35000/44615), loss: 49.461577927941754
+(36000/44615), loss: 48.80330968778651
+(37000/44615), loss: 49.10807136759405
+(38000/44615), loss: 48.678703572123275
+(39000/44615), loss: 49.204712127142194
+(40000/44615), loss: 50.00040851217886
+(41000/44615), loss: 49.58111426978339
+(42000/44615), loss: 49.15586473400669
+(43000/44615), loss: 47.71019204868443
+(44000/44615), loss: 49.43928177430315
+(44615/44615), loss: 49.428234316038456
+================
+ iteration 5
+================
+----
+ R3B33q?ypujoourmourfirtiticices; to cicciotichinsithing'ssis'se'ds.'. of, ming youcirecio'dicighichimbon.
+
+GONZONTO:
+No?-wicthereckion;
+Wiccon.'
+Notousting?
+
+Like is coffif' my.
+O;'t?
+No?;
+Noit issigoursstsiding cofollionigh pacigioll in; if---ustitillocoming'tllesicelace thisew,
+Youicnoncoud, LONIONBONTNNNoches.
+
+DONIONTONSONZALONDONZANA:
+Oowsifing.
+'itingas?
+
+ist ariocks. Buiogingiciomivedicking, ist-fioliodricie! I'll micess,'s candichis--boom, fulowiofoniouncath, IONDINTrimin! Comiods coovis's mighfugbicandinowicllingsing!'
+'ccyourlow,-gooschim!
+Wittiofom,
+Off- Ditouroyo-soch cimbloosis
+cligitolo?--suresccingesssty.
+
+GRONTON:
+Oo,
+Of compiofe! notized, gitiviss issiccill; quicabust ambkichiong.
+Of'l-
+
+teschicEgonot isconces.
+
+GONZANIO:
+Nookill; itockichaposhalink oncemian!'
+
+CONIO:
+Noill may.
+Youlucirock'd but, Grooncothill----
+Tome'ticcionothtuciing---paugh
+ONmowolanchickicke?
+'ng, quO:
+CONWONTONTONNZETicough.
+O,
+Ol in;
+Agoucon! Haves; is
+Whost,
+Oly mak,
+By brigesiedsicesbught,
+
+Dio Timpofto wiont, or are;-gome.
+
+GOTONTONNO
+O ONONZO:
+ANO:
+Ninghou;
+A's,'s-birishou?
+Nis!
+I sime,
+Youto adichicichickoughergoow?
+b; gatallighingiught,
+Whesistectrois, quigh.
+
+Soug,
+O, stof
+
+cour is cabep?
+No. OFORKONYO:
+O!r, bickis,--soussiograg! Orichiscio.
+
+GRONTONTONIONTONTO:
+Goth. itiofoticcoccan!
+Nole.
+
+ISA:,
+Oir
+Ifaspon age loowniviciand,-cir:
+Ticco, most owignay's ias thoo,
+Oot thiscacake''since!
+
+POLOWONTANaromoipring;; cense;
+Is
+Ansay, mim,
+Olicecs iofordoulign
+Thas may!
+ONZONONTONTNON,
+----
+(1000/44615), loss: 50.568870350082356
+(2000/44615), loss: 50.096741033544525
+(3000/44615), loss: 49.05198979281809
+(4000/44615), loss: 48.13415697083089
+(5000/44615), loss: 48.48937908836792
+(6000/44615), loss: 48.89527422608861
+(7000/44615), loss: 49.01682864506378
+(8000/44615), loss: 49.35726813460174
+(9000/44615), loss: 49.0024639737887
+(10000/44615), loss: 48.27022134246807
+(11000/44615), loss: 48.49821083140945
+(12000/44615), loss: 47.03429277976974
+(13000/44615), loss: 49.018467947943684
+(14000/44615), loss: 49.52303610052527
+(15000/44615), loss: 48.85815964873749
+(16000/44615), loss: 48.99541730396199
+(17000/44615), loss: 48.24662654681188
+(18000/44615), loss: 48.379722213134045
+(19000/44615), loss: 49.723798912927236
+(20000/44615), loss: 49.15005471684297
+(21000/44615), loss: 49.67601367982194
+(22000/44615), loss: 48.5977201093928
+(23000/44615), loss: 49.28819790076706
+(24000/44615), loss: 48.64580739385744
+(25000/44615), loss: 48.17964263716385
+(26000/44615), loss: 47.31024129121532
+(27000/44615), loss: 47.316300795334854
+(28000/44615), loss: 47.722440948924174
+(29000/44615), loss: 48.9854273876959
+(30000/44615), loss: 49.100483946209906
+(31000/44615), loss: 49.92566529533628
+(32000/44615), loss: 50.014054462638335
+(33000/44615), loss: 49.21760727564887
+(34000/44615), loss: 49.021161528316405
+(35000/44615), loss: 48.97927721506553
+(36000/44615), loss: 48.25400698272055
+(37000/44615), loss: 48.518777274031706
+(38000/44615), loss: 48.13650367081009
+(39000/44615), loss: 48.7127182423622
+(40000/44615), loss: 49.445144291200506
+(41000/44615), loss: 48.96982846014665
+(42000/44615), loss: 48.64875890255182
+(43000/44615), loss: 47.13545721186946
+(44000/44615), loss: 48.918917467195776
+(44615/44615), loss: 48.93279525773128
+================
+ iteration 6
+================
+----
+ , ket siss is sis;
+O, NZAO:
+Ditsive citize.
+
+GA:
+Atsit,
+O:
+Wil.
+
+ARANCENTE:
+
+nquis
+Givian.
+
+CA:
+Why sime, I wiggis:
+Giviswizay:
+A:
+GisG,
+Ay: aight:
+Iffe givisp-ssiblivits; is simid
+Assiness.
+
+ye: pis vive?
+
+WALUSETRANCIAN: witiledwieg,
+A wigizesisisizesitize pissistiis isive; silisiw. Cim.
+
+GORCHIO:
+A vive viasir was:
+Wigisis.
+Angisis
+ing,
+Ay.
+
+GRATHA:
+O itits istomining.
+
+DADiCtunizell asssigivesiigivisit. sit ousiseaisen,
+Assive;
+Assisirsizeins!
+
+GRORTIO:
+Gix gitaiss
+Ditiszensi''s iffssis is, ay witing,?
+
+istus.
+Tis issiestis bessing expaziageid:
+Assidsidy teis, with gieis oshispismigs,
+
+weesisstiougize.
+
+KA:
+Disis is, diss;
+Asse itit isse!,
+A give
+pisisisidiecitis somive.
+
+GCENTABENCAjyigix it rifogaisis iss.
+
+AND:
+Wed; viess;.
+
+ARA:
+Ging quis spiestitelive tain.
+
+GRCATECANO:
+Tais dusing yisis ise.
+
+GLOWORWAs groesty, tit is iviespize; givingits
+A's.
+
+GO:
+ASTAANCYCAPSALA:
+Fill in;
+AQUCESTEN:
+Wiss; isgiving sisg,
+Ay:
+Andieds
+sils?
+
+A asisisties ostidsose o'll gitiagivesivigisiss;; witft
+GAA:
+Cition miss.
+
+GY:
+Kith suits;
+Hing-
+Cais.
+
+DARWIO:
+NZA:
+Wim.
+
+GRORSTOO:
+Wionzesis.
+
+GLORANO:
+O ive.
+
+Ay: Gastiegingige tiliting.
+
+ANE:
+A misid
+Wenvisa,
+Away, Capnow;
+Asties, sirs; is; is tals sirivive.
+
+ANTRANCAiviS:
+As istoosisilias butisis to is; is
+HARDAtly.
+
+GRO:
+Witiess conmitisistissitsisit istwets!
+Aistivesit; is is
+ANO:
+wing.
+
+CARDAN Asss,
+GALO:
+As vaitis;. Frime unind; uponing;
+Ay.
+Wheses witistis iswhilingistizey, Filly.
+'tize'n couvier.
+
+GROMPuOR:
+A vedssing we;
+ANoCENS:
+Wits
+----
+(1000/44615), loss: 50.033751209449555
+(2000/44615), loss: 49.61417939223149
+(3000/44615), loss: 48.60439478900883
+(4000/44615), loss: 47.67450509592414
+(5000/44615), loss: 48.07295140856075
+(6000/44615), loss: 48.51026985819865
+(7000/44615), loss: 48.34597673673341
+(8000/44615), loss: 48.64095360225128
+(9000/44615), loss: 48.24477530594264
+(10000/44615), loss: 47.571978869906324
+(11000/44615), loss: 47.738307535686054
+(12000/44615), loss: 46.365639555927835
+(13000/44615), loss: 48.49533460195649
+(14000/44615), loss: 49.06137474300022
+(15000/44615), loss: 48.29195984443709
+(16000/44615), loss: 48.53230489636669
+(17000/44615), loss: 47.76419450177451
+(18000/44615), loss: 47.943467766167565
+(19000/44615), loss: 49.20828681953262
+(20000/44615), loss: 48.54983088052758
+(21000/44615), loss: 49.13573732331701
+(22000/44615), loss: 48.01980637344373
+(23000/44615), loss: 48.88278350406338
+(24000/44615), loss: 48.13040717428558
+(25000/44615), loss: 47.6877944203487
+(26000/44615), loss: 46.85547095213122
+(27000/44615), loss: 46.7569279764924
+(28000/44615), loss: 47.125548867501394
+(29000/44615), loss: 48.53117982791504
+(30000/44615), loss: 48.58134757207583
+(31000/44615), loss: 49.4139715413644
+(32000/44615), loss: 49.38332973379294
+(33000/44615), loss: 48.50004837726337
+(34000/44615), loss: 48.26107986348662
+(35000/44615), loss: 48.28695746290205
+(36000/44615), loss: 47.684267047474535
+(37000/44615), loss: 48.02677845852134
+(38000/44615), loss: 47.675918814450895
+(39000/44615), loss: 48.2264757714402
+(40000/44615), loss: 49.04466889803111
+(41000/44615), loss: 48.51985610847849
+(42000/44615), loss: 48.2619670090391
+(43000/44615), loss: 46.7645422207054
+(44000/44615), loss: 48.494036671664496
+(44615/44615), loss: 48.495254376575524
+================
+ iteration 7
+================
+----
+  stllBO:
+A, Wimyem;
+Wilpsinditiss; istions?
+Liggistyaimsit edvigighe,
+Ainne;
+
+GABuisteses etest LADeswas omemurruing's is nightus, with usestiod!
+
+Keras;
+And ised
+WAND:
+O:
+Agitenes igh sued;
+As isus.
+A;
+He;
+A
+Werestis issindscat
+Tim;
+As with striending upizem well sis;
+Ansitymidiseny,
+Ay Amus tardereder,
+Mutes:
+Audating, giss;
+Anding.
+Nitais yishiburridyse way; my.
+
+AABATV:
+Asdriny;
+Asses:
+A's
+Gencesiraggivest;
+Ase;
+Atsssistesse windy is is
+sissivet's sitivisiclisirouren's;
+As.
+
+ASTAA:
+A impay, ispityingse-tit
+Dotsomemy sayse;
+A umbtib, BO:
+Angise;
+Ormy is suis iswis ingesee;
+Ay, your gomyar;
+
+ABA:
+Firstimaughind; O:
+A:
+Andingdewienvisin sere yivithunby me;
+Hast yay;
+As, yourike;
+ASTAAO:
+Sisus yisis; suswionged;
+As;
+Ags' ginginer; is;
+And wasits
+Ay; you,
+A:
+Co.
+Aleiting
+
+Atiry riemory; 'tis atistoy grebusty?
+And;
+As:
+A Am;
+O:
+As itesat;
+
+AALANBumaughe padeistins yeyer ierysy sir; tis's
+Ans; gingingety blewe;
+tinn;
+Assties.
+
+A:
+Ay! enessitys;
+As; you; my;
+As:
+
+Asis;
+As omaing swidesue,
+Se;
+Firserids
+Andeve;
+And:
+As isweousairst;
+FikedyisinghouggsissusitilisGiver
+My issinditewitheastsioksugasis inge's
+Adasstimenghe;
+A: tuirs wisel.
+'Elus.
+
+GOLASELO:
+A:
+Andeds:
+Ay, midise's thistured sasssing seirsssigh istrighe
+He ightinginguress's yis be;
+Firnitys'sty, as:
+'tisin preistis;
+Withere;
+Abay gasissige
+A:
+Fily And:
+As yeatsed;
+
+AA:
+Timge ives
+Ay's usit.
+
+A:
+A susting;
+A:
+As may; yeasteirssitysmiondiry fay thees an; sorien,
+Ay, diepinnisil;
+Ates; Andese
+As Comsus, my stangingis.
+Givi
+----
+(1000/44615), loss: 49.59379954884912
+(2000/44615), loss: 49.0762127853637
+(3000/44615), loss: 48.1180900868234
+(4000/44615), loss: 47.26810073651987
+(5000/44615), loss: 47.693017375232806
+(6000/44615), loss: 48.21786811044345
+(7000/44615), loss: 48.02831002457547
+(8000/44615), loss: 48.268564287080515
+(9000/44615), loss: 47.97054990318054
+(10000/44615), loss: 47.298430961128744
+(11000/44615), loss: 47.41574633712542
+(12000/44615), loss: 46.05078540158846
+(13000/44615), loss: 48.202549780107475
+(14000/44615), loss: 48.78217549239771
+(15000/44615), loss: 47.997983416971735
+(16000/44615), loss: 48.25132153208671
+(17000/44615), loss: 47.50566059976498
+(18000/44615), loss: 47.66815105512954
+(19000/44615), loss: 48.82142842216057
+(20000/44615), loss: 48.16200664283158
+(21000/44615), loss: 48.79712970787376
+(22000/44615), loss: 47.65226766538524
+(23000/44615), loss: 48.51484817981482
+(24000/44615), loss: 47.916477177122
+(25000/44615), loss: 47.43681147200266
+(26000/44615), loss: 46.46769062712068
+(27000/44615), loss: 46.379062122351726
+(28000/44615), loss: 46.761439159885576
+(29000/44615), loss: 48.17831625336481
+(30000/44615), loss: 48.260733031164854
+(31000/44615), loss: 49.06377639784464
+(32000/44615), loss: 49.105801922379406
+(33000/44615), loss: 48.22831093711821
+(34000/44615), loss: 47.93090989678354
+(35000/44615), loss: 47.96732490926845
+(36000/44615), loss: 47.36505273067349
+(37000/44615), loss: 47.7802935013035
+(38000/44615), loss: 47.408588438408486
+(39000/44615), loss: 47.85990654053641
+(40000/44615), loss: 48.61174996457486
+(41000/44615), loss: 48.17936884379574
+(42000/44615), loss: 47.9044878129088
+(43000/44615), loss: 46.38397196206763
+(44000/44615), loss: 48.08913661219732
+(44615/44615), loss: 48.09298899631643
+================
+ iteration 8
+================
+----
+ ullallt it it.
+kingikifes dightakighmingingiousa mis gaing spifitial mus age, is arive
+To:
+Thilf-siep?
+
+SETTAS:
+O tishy ga!'dwitiea ingisifid is! equaif-ly, mightagtry's ife:
+Wer! Sight sibed, sirighir's sitiotiould; fing
+Gridideat if itiofir.
+
+ESCH:
+Wisuptiouse; is surgiff--
+Ouliped; agaidver; ais gilisio imio?
+
+Tris imsioll to,-----ait,
+Whis mighliaughtifffight;
+Ast afesslivisitich silibegirile,
+Sil.
+Sohastiongsess; thaid if it is ikivigifimathiuld is lax ofe
+ligieid; sifiligiof?
+Nistiould hich'ds; ind this?
+Aisings
+Give fell ase:
+I wiffiligiffiliffirs
+inigofort,
+GERSONZANCENTIO:
+Of if is
+dliglaids ifforim--wividisightalisiss thut sill om OONO:
+'Tis tiro'll worligno, illd; if is is you suce, feard,-d?
+
+BANG ONRO:
+Wilisiounistifor saiming sinsioth im, on KIO:
+Ofy it is sup us givel saie.
+
+Saide's me lovay is coull his eage,
+You,
+Likst! willoft owik; gifind is lieg,
+And ris leism thigistiosivessif
+Timgifitthid?
+lill---forthioramislis. Gridive.---
+Diit wiligarakilldiseliegpiglimitifilagg asight-forlighpet :
+Cimed, and allses; Bill, histry, sigh,
+O, will aik--sermingm sitigging am'tisightliovet, rifisil, 'V?
+
+KANGENY ONDOWZAUNONSON-O:
+Shis? INfiZA:
+Commatis fila sits is liisist it. fatio
+it! thasping affigifu he filifuhtio, leigharing ticilosut it if fuill
+timifaigino. Ditesily to-high marak, asty histrith, i'll is is madightle thissess,
+Yevery asidyed wititilime, Tuinis! Sill hight gilld gist, sill'd is thisplivill: Ox Has silighpift
+ighist is yourio?
+
+ANT:
+With to spiright
+----
+(1000/44615), loss: 49.27108905634113
+(2000/44615), loss: 48.74751058141937
+(3000/44615), loss: 47.67184763813849
+(4000/44615), loss: 46.94728193651867
+(5000/44615), loss: 47.4200918927326
+(6000/44615), loss: 47.904444220466075
+(7000/44615), loss: 47.72166811984967
+(8000/44615), loss: 47.89148481613406
+(9000/44615), loss: 47.45983790601883
+(10000/44615), loss: 46.85850184072686
+(11000/44615), loss: 47.12544276467322
+(12000/44615), loss: 45.77467416090441
+(13000/44615), loss: 47.94294673578491
+(14000/44615), loss: 48.496331491615706
+(15000/44615), loss: 47.77759324693753
+(16000/44615), loss: 48.00598793299458
+(17000/44615), loss: 47.24196864705211
+(18000/44615), loss: 47.35482570440924
+(19000/44615), loss: 48.53080025469472
+(20000/44615), loss: 47.840048979968905
+(21000/44615), loss: 48.42986883356988
+(22000/44615), loss: 47.4175810121262
+(23000/44615), loss: 48.27804258179045
+(24000/44615), loss: 47.676946896122224
+(25000/44615), loss: 47.278075204573206
+(26000/44615), loss: 46.21927730026148
+(27000/44615), loss: 46.13808628266684
+(28000/44615), loss: 46.51899174165278
+(29000/44615), loss: 47.88282107396005
+(30000/44615), loss: 47.99666293708112
+(31000/44615), loss: 48.919918750718075
+(32000/44615), loss: 49.0458139289551
+(33000/44615), loss: 48.15605030523899
+(34000/44615), loss: 47.800729486209725
+(35000/44615), loss: 47.94515709196
+(36000/44615), loss: 47.189224723442784
+(37000/44615), loss: 47.48840957753356
+(38000/44615), loss: 47.25423506019514
+(39000/44615), loss: 47.70499784801975
+(40000/44615), loss: 48.5205030455697
+(41000/44615), loss: 47.949143674581
+(42000/44615), loss: 47.675924773096796
+(43000/44615), loss: 46.15083386681809
+(44000/44615), loss: 47.93429447102889
+(44615/44615), loss: 48.04695397211084
+================
+ iteration 9
+================
+----
+ spppo, widatt wipordio.
+
+O witsime.
+
+Pritht.
+
+My.
+
+PSORK:
+Bedepoze,
+In yodwow, fxtey.
+
+WOLMO:
+Wits MILIONPRUKIANCHANCNINNIN,
+No. Town.
+
+LUMIOLOWIOMPare.
+O bjecut oxpupestt to cawort sweent, spouth
+ISoin.
+
+PRINoSIO:
+Itogny, coodoble
+Ast, bieg
+My be not in to-conds.
+
+LONIONPONZALONIONTON:
+Maccch py YONIONTHARWIO:
+Sirentcomstunomtan!;
+Mob wer.
+
+Anse.
+APHY O'St mactronow.
+
+HALIANTONTIANGHAMO:
+IN
+Anoblo.' occanitentlen!
+Who
+Hoady's
+bose.
+
+ombbe's joutrosin, battink'strangern,
+
+qued;
+My stare;
+Borice.
+Wely.
+
+GROMPEORPANIO:
+Pope minet
+co.
+
+LUCHIIO:
+Ay, to! Wee,
+Wemens'twean, an bebed
+Ay.
+
+GORK:
+Andse!
+Why
+bootondbest.
+
+GROMPONIO:
+Wance.
+
+BAATOHANDIONT:
+Selcece.
+
+GORK:
+Nodde corman;
+Lord
+We.
+
+MORIANDIO:
+Los.
+
+POLOWHONTIONTWAN:
+Whomnownt.
+
+MONIOLOVIOOGALOWANDIONTONIO:
+Andruned owance was withenchacond.
+With.
+
+WAPTARIOLONWZAPLIO:
+Whaind with bebin's
+coveck-aw, ging,
+Miden,
+Who!
+
+POLAO:
+It. O
+Gonsrwledy
+bespeccalde
+not sicth.
+
+LUONIOLANOLOROSPTHARINI
+chones.
+
+WANTIONINOD SOrme.
+Wacow wel ome.
+
+WAPTISTAP,
+Whom ond.
+
+GLOUCWAPSABHIO:
+O, were;'d;
+Wir t.
+
+HADATIONAMIO:
+And.
+My serchock
+Mommosing.
+
+PROrPALULLA:
+'dence?'s, bed.
+
+INIOMARIONIO:
+Shanstey.
+
+MINORIONANO:
+I sonteses.
+
+MO.
+
+GRAARONIO:
+NZolon,
+Is bet.
+
+WO:
+Gocruce.
+
+SLONIONIONIO:
+O, bo; my, sith
+wats boty ances myesce;
+wheber maket.
+
+MARIZA:
+Wignmast!
+
+y.
+We.
+O,
+Whou,
+Anstce,
+We
+weere?
+
+Ordow by!
+Bake.
+
+GOLOMABA:
+Heentss bet!
+Andst.
+
+POLONIONA:
+No.
+Sirnesonabee.
+
+m
+ASTAAANCA:
+Why.
+
+Bend.
+
+GRO:
+Wil.
+
+FORWAPDIONTONTONIONO:
+Bechy me.
+Wer
+----
+(1000/44615), loss: 49.15592855976629
+(2000/44615), loss: 48.52920219175391
+(3000/44615), loss: 47.447229518785754
+(4000/44615), loss: 46.732885380416924
+(5000/44615), loss: 47.104845921541596
+(6000/44615), loss: 47.82642186838129
+(7000/44615), loss: 47.61397172714585
+(8000/44615), loss: 47.649396705367074
+(9000/44615), loss: 47.19601207776694
+(10000/44615), loss: 46.55578800071386
+(11000/44615), loss: 46.75773299176495
+(12000/44615), loss: 45.47865342162325
+(13000/44615), loss: 47.665513595479815
+(14000/44615), loss: 48.186802293254445
+(15000/44615), loss: 47.52665519127217
+(16000/44615), loss: 47.75180235722314
+(17000/44615), loss: 47.05329328142135
+(18000/44615), loss: 47.18497077376825
+(19000/44615), loss: 48.280015874207976
+(20000/44615), loss: 47.604347291192624
+(21000/44615), loss: 48.252815266136174
+(22000/44615), loss: 47.12542261321398
+(23000/44615), loss: 48.04254206210547
+(24000/44615), loss: 47.35242142553077
+(25000/44615), loss: 46.97215048885673
+(26000/44615), loss: 45.8786682079508
+(27000/44615), loss: 45.76598770936986
+(28000/44615), loss: 46.10692590335779
+(29000/44615), loss: 47.60373869579627
+(30000/44615), loss: 48.033600707729875
+(31000/44615), loss: 48.96856017422462
+(32000/44615), loss: 49.04229618259855
+(33000/44615), loss: 48.14754397442461
+(34000/44615), loss: 47.78847662761073
+(35000/44615), loss: 47.92022575448843
+(36000/44615), loss: 47.08444391047843
+(37000/44615), loss: 47.33425140697668
+(38000/44615), loss: 47.10729511344869
+(39000/44615), loss: 47.49237385193358
+(40000/44615), loss: 48.92317855207801
+(41000/44615), loss: 48.09449058567075
+(42000/44615), loss: 47.71672738363361
+(43000/44615), loss: 46.177272251466434
+(44000/44615), loss: 47.884035546662034
+(44615/44615), loss: 47.97367960438591
+================
+ iteration 10
+================
+----
+ 3VI rrrrecer,
+Canerry,
+Pl the s'-LLO
+Swh
+phrent,
+
+LORDADIO:
+And,
+Son yonzeder!
+Whose!
+
+LIONIWIO:
+Wee
+Anours!
+
+Ashere, these.
+
+LURWIA:
+Oron,
+An.
+
+BIONTNANCHARINCIO:
+Is.
+
+BIOND:
+AROHANDIANTHIONBEMIO:
+But by:
+Ist thouncemely.
+
+GOLYCWAsbetest den withe,
+And her.
+
+POMPENTIO:
+I bound want I cind.
+
+BANANIONIO:
+Thanion?
+
+ANTIANDTIO:
+Wevers,
+Wh.
+
+MISABENTIO:
+Why on Iforn, seas
+O:
+Be these I me yoolod,
+My dintcherengenged nor
+Whou bught oulins ownous.
+
+KABENLLOZABANLORIOLOROMPANO:
+
+MARDIO:
+Mook counknernesstant.
+
+POLIO:
+Wewlandows
+
+honder nerance?
+
+POLAOSTIN
+DIO:
+Nittcones onter!
+
+PONZAPALO:
+In threburentstmay of kne some.
+Whech,
+I to notinn,
+Wentint.
+
+Fren.
+
+KATHAONTO:
+I nee. Hemenot
+chat.
+
+POLIO:
+I too in.
+
+MIONTONIO:
+Napporwil.
+
+DUSEBONZO:
+IANGREONPO
+Stond.
+Wh, twold thebjecther'd.
+
+GLOROFSOPRORP SIOSTANINCIONET:
+But tre
+Mock that the your rand,
+Whoquare, by, mance
+As to'd-
+Andouzed ding.
+
+Bing tlunt pos;
+Well as.
+
+POLIONARONSOLIO:
+Far:
+Wasue brow stime!
+What myefe crthanty on I wind I,
+Whow trond.
+Go obont's, bloon wet.
+
+GRIONTAN:
+We,
+I sprere
+then.
+
+MINblat'd ame riso!
+
+HOMPONZABO:
+O:
+Wery nor the anotnes not. Concesterry, wor?
+
+Ben.
+O.
+
+Its, O:
+Wich.
+
+DORIO:
+And mayse;
+It mporit the.
+
+HOMIONTIO:
+That
+Foory.
+Way, thou!
+Make, word
+Why I'll now proody; mes him,
+Wroned bengy se
+quch noth.
+Wou in
+Wromboe
+ton. Tomban.
+
+POATHANIONTIONT:
+Wo; Were
+Hown InchONIO:
+Whese's shoulds!
+
+ANTINIO:
+Sto,
+Is non.
+
+ISAPAMONPENRNTIO:
+? Gory.
+
+GANWIO:
+O, the wingestt bourtiding, LO:
+ISTIO:
+Nothchize pro
+----
+
+Process finished with exit code 0
